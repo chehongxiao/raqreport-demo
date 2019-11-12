@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="21891"
+   name=""
+   committed-date="2011-07-28T02:46:09.290123Z"
+   url="svn://192.168.0.7/code/trunk/reportmis0728/WebRoot/mis2/viewReport/css"
+   last-author="xiebaoping"
+   kind="dir"
+   uuid="5e504f78-2076-450e-8828-05cb259ddeba"
+   repos="svn://192.168.0.7/code"
+   revision="23093"/>
+<entry
+   committed-rev="21891"
+   name="style.css"
+   text-time="2011-07-28T03:22:58.609375Z"
+   committed-date="2011-07-28T02:46:09.290123Z"
+   checksum="46fc8ce1229a74cea9887859781073d0"
+   last-author="xiebaoping"
+   kind="file"
+   prop-time="2011-07-28T03:22:58.593750Z"/>
+</wc-entries>
